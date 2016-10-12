@@ -9,9 +9,11 @@
 
 ## About
 
+This project uses [Jasmine](http://jasmine.github.io/) for JavaScript tests.
+
 There is an Eslint configuration file to check the JS syntax.
 
-CI files have been added to be used with Travis and GitLab.
+Also, CI files have been added to be used with Travis and GitLab.
 
 
 ## Installing

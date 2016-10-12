@@ -4,3 +4,9 @@ cache:
   paths:
   - node_modules/
 # /usr/local/bin
+before_script:
+  - npm install
+
+all_tests:
+  script:
+    - npm test

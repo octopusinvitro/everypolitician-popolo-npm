@@ -4,6 +4,7 @@
   "description": "Module to interact with data provided by the Every Politician project, which comes in the everypolitician flavor of the Popolo format",
   "main": "index.js",
   "scripts": {
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -21,4 +22,7 @@
     "url": "https://github.com/octopusinvitro/everypolitician-popolo-npm/issues"
   },
   "homepage": "https://github.com/octopusinvitro/everypolitician-popolo-npm#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
 }

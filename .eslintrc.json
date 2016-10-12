@@ -4,6 +4,7 @@
     "node":     true,
     "amd":      true,
     "commonjs": true,
+    "jasmine":  true
   },
   "globals": {
   },
