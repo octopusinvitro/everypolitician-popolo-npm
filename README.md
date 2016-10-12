@@ -9,6 +9,8 @@
 
 ## About
 
+There is an Eslint configuration file to check the JS syntax.
+
 CI files have been added to be used with Travis and GitLab.
 
 
