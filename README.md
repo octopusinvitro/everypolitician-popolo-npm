@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/octopusinvitro/everypolitician-popolo-npm.svg?branch=master)](https://travis-ci.org/octopusinvitro/everypolitician-popolo-npm)
+[![build status](https://gitlab.com/octopusinvitro/everypolitician-popolo-npm/badges/master/build.svg)](https://gitlab.com/octopusinvitro/everypolitician-popolo-npm/commits/master)
 
 
 # Readme
@@ -8,7 +9,7 @@
 
 ## About
 
-A CI file has been added to be used with Travis
+CI files have been added to be used with Travis and GitLab.
 
 
 ## Installing

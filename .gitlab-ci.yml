@@ -1,0 +1,6 @@
+image: node:4.2.2
+
+cache:
+  paths:
+  - node_modules/
+# /usr/local/bin
