@@ -15,6 +15,11 @@ describe('Popolo', function() {
     expect(file.persons[0].name).toEqual('Jon Doe');
   });
 
+  it('returns no data if there is a parsing error', function() {
+    var file = popolo.read('{"hey"}');
+    expect(file).toEqual({});
+  });
+
   function loadFixture(path) {
     return require('fs').readFileSync(path, 'utf-8');
   }
